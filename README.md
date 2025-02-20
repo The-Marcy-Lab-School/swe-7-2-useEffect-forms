@@ -46,7 +46,7 @@ git checkout -b draft
 Then, do the following:
 
 ```sh
-cd giphy-search
+cd app
 npm i
 npm run dev
 ```
